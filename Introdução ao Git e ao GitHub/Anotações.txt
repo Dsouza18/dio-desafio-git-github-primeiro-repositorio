@@ -1,0 +1,6 @@
+Git é uma ferramenta de controle de versão com foco em velocidade e integridade de 
+dados
+
+Github é um site que permite que você hospede seus repositórios(projetos) usando o 
+Git lá.Github é um site que permite que você hospede seus repositórios(projetos) usando o 
+Git lá.
